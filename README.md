@@ -34,7 +34,6 @@ Ponovnim izlaskom na neki od ispita na Zavrsnom roku, prethodno ostvareni bodovi
 
 
 ## Uvod u matematiku
-## Elementarna matematika
 
 ### Predavaci
 | P/V | Predavac | email | Konsultacije
@@ -49,7 +48,6 @@ Ponovnim izlaskom na neki od ispita na Zavrsnom roku, prethodno ostvareni bodovi
 
 
 ## Linearna algebra I
-## Elementarna matematika
 
 ### Predavaci
 | P/V | Predavac | email | Konsultacije
@@ -64,7 +62,6 @@ Ponovnim izlaskom na neki od ispita na Zavrsnom roku, prethodno ostvareni bodovi
 
 
 # Programiranje I
-## Elementarna matematika
 
 ### Predavaci
 | P/V | Predavac | email | Konsultacije
@@ -79,7 +76,6 @@ Ponovnim izlaskom na neki od ispita na Zavrsnom roku, prethodno ostvareni bodovi
 
 
 ## Analiza I
-## Elementarna matematika
 
 ### Predavaci
 | P/V | Predavac | email | Konsultacije
