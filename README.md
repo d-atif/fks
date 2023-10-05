@@ -10,8 +10,8 @@
 ### Predavaci
 | P/V | Predavac | email | Konsultacije
 | ----------- | ----------- | ----------- | ----------- |
-| Vjezbe | Dina Kamber-Hamzic | dinakamber@pmf.unsa.ba | PON: 09:00 - 12:00<br>UTO: 09:00 - 12:00
-| Predavanja | Dina Kamber-Hamzic | dinakamber@pmf.unsa.ba | PON: 09:00 - 12:00<br>UTO: 09:00 - 12:00
+| Predavanja | Dina Kamber-Hamzic | dinakamber@pmf.unsa.ba | PET: 09:00 - ...
+| Vjezbe | Dina Kamber-Hamzic | dinakamber@pmf.unsa.ba | PET: 09:00 - ...
 ### Ispiti
 Tri ispita tj. dvije parcijale i zavrsni ispit
 - I parcijala 30b
@@ -38,14 +38,18 @@ Ponovnim izlaskom na neki od ispita na Zavrsnom roku, prethodno ostvareni bodovi
 ### Predavaci
 | P/V | Predavac | email | Konsultacije
 | ----------- | ----------- | ----------- | ----------- |
-| Vjezbe | Dina Kamber-Hamzic | dinakamber@pmf.unsa.ba | PON: 09:00 - 12:00<br>UTO: 09:00 - 12:00
-| Predavanja | Dina Kamber-Hamzic | dinakamber@pmf.unsa.ba | PON: 09:00 - 12:00<br>UTO: 09:00 - 12:00
+| Predavanja | Dzenan Gusic | dzenang@pmf.unsa.ba | Konsultacije kad god profesor u kabinetu
+| Vjezbe | Danijela Zubovic | dzubovic@pmf.unsa.ba | PON: 09:00 - 12:00<br>UTO: 09:00 - 12:00
 ### Ispiti
-
+- I parcijala (sve u skripti do prirodnih brojeva, fali poglavlje o mocnosti skupa, objavljeno poglavlje zasebno)
+- II parcijala (od prirodnih brojeva sve u skripti)
+- Pitati profesora za koncepciju ispita, sta je na zavrsnom itd.
 ### Resursi
-
+- Skripta za predavanja od Dz. Gusic na teamsu, rukom pisana.
+- Dopuna skripte za predavanja o mocnosti skupa (iz M. Pepic)
+- Skripta za vjezbe (pitati za par sedmica profesoricu Danijelu da li ce ubaciti dodatne zadatke)
 ### Literatura
-
+- Uvod u matematiku, Medo Pepic
 
 ## Linearna algebra I
 
@@ -66,8 +70,8 @@ Ponovnim izlaskom na neki od ispita na Zavrsnom roku, prethodno ostvareni bodovi
 ### Predavaci
 | P/V | Predavac | email | Konsultacije
 | ----------- | ----------- | ----------- | ----------- |
-| Vjezbe | Dina Kamber-Hamzic | dinakamber@pmf.unsa.ba | PON: 09:00 - 12:00<br>UTO: 09:00 - 12:00
 | Predavanja | Dina Kamber-Hamzic | dinakamber@pmf.unsa.ba | PON: 09:00 - 12:00<br>UTO: 09:00 - 12:00
+| Vjezbe | Dina Kamber-Hamzic | dinakamber@pmf.unsa.ba | PON: 09:00 - 12:00<br>UTO: 09:00 - 12:00
 ### Ispiti
 
 ### Resursi
@@ -80,10 +84,11 @@ Ponovnim izlaskom na neki od ispita na Zavrsnom roku, prethodno ostvareni bodovi
 ### Predavaci
 | P/V | Predavac | email | Konsultacije
 | ----------- | ----------- | ----------- | ----------- |
-| Vjezbe | Dina Kamber-Hamzic | dinakamber@pmf.unsa.ba | PON: 09:00 - 12:00<br>UTO: 09:00 - 12:00
-| Predavanja | Dina Kamber-Hamzic | dinakamber@pmf.unsa.ba | PON: 09:00 - 12:00<br>UTO: 09:00 - 12:00
+| Predavanja | Dzenan Gusic | dzenang@pmf.unsa.ba | Konsultacije kad god profesor u kabinetu
+| Vjezbe | Adisa Bolic | @pmf.unsa.ba | PON: 09:00 - 11:00<br>UTO: 09:00 - 12:00
 ### Ispiti
-
+- Profesor organizuje ispit (poslati upit na mail profesora sa detaljima ispita)
 ### Resursi
-
+- Teams ?
+- Sve vjezbe ce biti postavljene na teams (bez rjesenja)
 ### Literatura
