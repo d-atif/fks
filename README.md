@@ -9,7 +9,7 @@
 ## Elementarna matematika
 ### Predavaci
 | P/V | Predavac | email | Konsultacije | Kabinet
-| ----------- | ----------- | ----------- | ----------- |
+| ----------- | ----------- | ----------- | ----------- | ----------- |
 | Predavanja | Dina Kamber-Hamzic | dinakamber@pmf.unsa.ba | SRI: 12:15 - 14:15<br>PET: 09:00 - 12:00 | 421
 | Vjezbe | Dina Kamber-Hamzic | dinakamber@pmf.unsa.ba | SRI: 12:15 - 14:15<br>PET: 09:00 - 12:00 | 421
 ### Ispiti
@@ -60,11 +60,23 @@ Ponovnim izlaskom na neki od ispita na Zavrsnom roku, prethodno ostvareni bodovi
 | Vjezbe | Aleksandar Balašev-Samarsk | aleksandar.bs@pmf.unsa.ba | PON: 09:00 – 11:00<br>UTO: 10:00 – 12:00<br>SRI: 12:00 – 13:00 | 407
 | Predavanja | Amela Muratovic-Ribic | amela@pmf.unsa.ba | PON: 11:00 – 11:45<br>CET: 10:30 – 13:00<br>PET: 08:30 – 10:00 | 414
 ### Ispiti
-- Koje gradivo za koje parcijale
+- I kolokvij obuhvata gradivo iz sedmica 2.-7.
+- II kolokvij obuhvata gradivo iz sedmica 8.-15. i održati će se u terminu završnog ispita.
+- Bodovi tokom kursa:
+
+| TEST | MAKSIMALAN BROJ BODOVA | BROJ BODOVA ZA PROLAZ
+| ----------- | ----------- | ----------- |
+| I KOLOKVIJ	| 30 | 16
+| II KOLOKVIJ | 30 | 16
+| USMENI ISPIT | 40 |	20
+
+- Koje gradivo za koje parcijale (plan rada iznad validan?)
 
 ### Resursi
-
+- Udzbenik profesorice dostupan na e-nastavi (zadnje poglavlje vjerovatno visak)
 ### Literatura
+- Gilbert Strang-Linear Algebra and Its Applications (4ed)-Brooks Cole (2005)Datoteka
+- Stephen H. Friedberg, Arnold J. Insel, Lawrence E. Spence- Linear Algebra (4th ed.))
 
 
 # Programiranje I
