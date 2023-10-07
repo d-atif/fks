@@ -1,4 +1,9 @@
-# Faks 2023/2024 I semestar
+# Opci smjer 2023/2024
+# Semestri
+- [I semestar](#i-semestar)
+- [II semestar](#ii-semestar)
+
+# I semestar
 ## Predmeti
 - [Elementarna matematika](#Elementarna-matematika) (4 ECTS)
 - [Uvod u matematiku](#Uvod-u-matematiku) (5 ECTS)
@@ -57,9 +62,10 @@ Ponovnim izlaskom na neki od ispita na Zavrsnom roku, prethodno ostvareni bodovi
 ### Predavaci
 | P/V | Predavac | email | Konsultacije | Kabinet
 | ----------- | ----------- | ----------- | ----------- | ----------- |
-| Vjezbe | Aleksandar Balašev-Samarsk | aleksandar.bs@pmf.unsa.ba | PON: 09:00 – 11:00<br>UTO: 10:00 – 12:00<br>SRI: 12:00 – 13:00 | 407
 | Predavanja | Amela Muratovic-Ribic | amela@pmf.unsa.ba | PON: 11:00 – 11:45<br>CET: 10:30 – 13:00<br>PET: 08:30 – 10:00 | 414
+| Vjezbe | Aleksandar Balašev-Samarski | aleksandar.bs@pmf.unsa.ba | PON: 09:00 – 11:00<br>UTO: 10:00 – 12:00<br>SRI: 12:00 – 13:00 | 407
 ### Ispiti
+- Profesorica rekla 4 kolokvija ?!! jel to znaci 4 parcijale? pitati za pojasnjenje
 - I kolokvij obuhvata gradivo iz sedmica 2.-7.
 - II kolokvij obuhvata gradivo iz sedmica 8.-15. i održati će se u terminu završnog ispita.
 - Bodovi tokom kursa:
@@ -83,8 +89,8 @@ Ponovnim izlaskom na neki od ispita na Zavrsnom roku, prethodno ostvareni bodovi
 
 ### Predavaci
 | P/V | Predavac | email | Konsultacije | Kabinet 
-| ----------- | ----------- | ----------- | ----------- |
-| Predavanja | Elmedin Selmanovic | dinakamber@pmf.unsa.ba | UTO: 09:00 - 14:00 | 438
+| ----------- | ----------- | ----------- | ----------- | ----------- |
+| Predavanja | Elmedin Selmanovic | eselmanovic@pmf.unsa.ba | UTO: 09:00 - 14:00 | 438
 | Vjezbe | Sead Delalic | delalic.sead@pmf.unsa.ba  | PON: 09:00 - 15:00 | 409
 
 ### Ispiti
@@ -100,8 +106,8 @@ Ponovnim izlaskom na neki od ispita na Zavrsnom roku, prethodno ostvareni bodovi
 
 ### Predavaci
 | P/V | Predavac | email | Konsultacije | Kabinet
-| ----------- | ----------- | ----------- | ----------- |
-| Predavanja | Dzenan Gusic | dzenang@pmf.unsa.ba | Konsultacije kad god profesor u kabinetu 405
+| ----------- | ----------- | ----------- | ----------- | ----------- |
+| Predavanja | Dzenan Gusic | dzenang@pmf.unsa.ba | PON: 08:00 – 10:00<br>PET: 08:00 – 11:00<br>(Konsultacije kad god profesor u kabinetu) | 405
 | Vjezbe | Adisa Bolic | abolic@pmf.unsa.ba | PON: 09:00 - 11:00<br>UTO: 09:00 - 12:00 | 416
 ### Ispiti
 - Profesor organizuje ispit (poslati upit na mail profesora sa detaljima ispita)
@@ -110,3 +116,81 @@ Ponovnim izlaskom na neki od ispita na Zavrsnom roku, prethodno ostvareni bodovi
 - Teams ?
 - Sve vjezbe ce biti postavljene na teams (bez rjesenja)
 ### Literatura
+
+# II semestar
+
+
+- [Teorija skupova](#teorija-skupova) (4 ECTS)
+- [Teorija vjerovatnoce](#teorija-vjerovatnoce) (4 ECTS)
+- [Algebarski racunarski paketi](#algebarski-racunarski-paketi) (4 ECTS)
+- [Numericka matematika](#numericka-matematika) (5 ECTS)
+
+## Teorija skupova
+### Predavaci
+| P/V | Predavac | email | Konsultacije | Kabinet
+| ----------- | ----------- | ----------- | ----------- | ----------- |
+| Predavanja | Franjo Sarcevic | franjo.sarcevic@pmf.unsa.ba | UTO: 10:00 – 12:00<br>UTO: 14:00 – 17:00| 444
+| Vjezbe | Mirza Cvorak | mirza.cvorak@pmf.unsa.ba | SRI: 12:15 - 14:15<br>PET: 09:00 - 12:00 | 407
+### Ispiti
+Dvije parcijale
+- I parcijala 20.11. (poslije 7. sedmice)
+- II parcijala iza 11.12 ()
+- Dopuniti sa info iz teke?!
+### Resursi
+- Predavanja/zadaci na e-nastavi
+- Predavanja ce biti postavljanja
+- Vjezbe nece biti postavljanje, ali ce biti postavljani zadaci za samostalni rad
+
+### Literatura
+- Paul R. Halmos - Naive Set Theory
+- Dopuniti?
+
+## Teorija vjerovatnoce
+### Predavaci
+| P/V | Predavac | email | Konsultacije | Kabinet
+| ----------- | ----------- | ----------- | ----------- | ----------- |
+| Predavanja | Fikret Cunjalo | fcunjalo@pmf.unsa.ba | PON: 09:00 – 12:00<br>UTO: 11:00 – 13:00 | 445
+| Vjezbe | Admir Besirevic | admir.b@pmf.unsa.ba | PON: 14:00 – 17:00<br>CET: 10:00 – 12:00 | 443
+### Ispiti
+
+### Resursi
+- Vjezbe ce biti postavljene na teams
+
+### Literatura
+- Sheldon Ross, A First Course in Probability
+
+## Algebarski racunarski paketi
+### Predavaci
+| P/V | Predavac | email | Konsultacije | Kabinet
+| ----------- | ----------- | ----------- | ----------- | ----------- |
+| Predavanja | Emin Beso | eminbeso@pmf.unsa.ba | PET: 09:00 – 14:00 | 448
+| Vjezbe | Emin Beso | eminbeso@pmf.unsa.ba | PET: 09:00 – 14:00 | 448
+
+### Ispiti
+Dvije parcijale + seminarski kad god zelimo, na bilo koju temu, koristeci Geogebra, Latex etc
+Dopuniti?
+### Resursi
+Dopuniti?
+### Literatura
+Dopuniti?
+
+## Numericka matematika
+### Predavaci
+| P/V | Predavac | email | Konsultacije | Kabinet
+| ----------- | ----------- | ----------- | ----------- | ----------- |
+| Predavanja | Medina Zubaca | medina.zubaca@pmf.unsa.ba | UTO: 14:15 - 15:00<br>SRI: 14:15 - 15:00<br>PET: 11:15 - 14:45 | 422
+| Vjezbe | Aleksandar Balašev-Samarski | aleksandar.bs@pmf.unsa.ba | PON: 09:00 – 11:00<br>UTO: 10:00 – 12:00<br>SRI: 12:00 – 13:00 | 407
+
+### Ispiti
+Dopuniti sa info sa papira, napraviti tabelu itd
+
+### Resursi
+- Predavanja/prezentacije bit ce postavljane na teams (upitna redovnost)
+- Vjezbe bit ce postavljane na teams (upitna redovnost)
+
+### Literatura
+- E. Ward Cheney, David R. Kincaid - Numerical Mathematics and Computing
+- Richard L. Burden, J. Douglas Faires, Annette M. Burden - Numerical Analysis
+- D. P. Radunovic, Numericke metode
+- Z. Drmac, V. Hari, M. Marusic, M. Rogina, S. Singer, S. Singer - Numericka matematika (predavanja i vježbe)
+- J. Solomon, Numerical Algorithms: Methods for Computer Vision, Machine Learning, and Graphics
