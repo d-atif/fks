@@ -19,104 +19,11 @@ To znaci da nijedne dvije tvrdnje ne tvrde istu stvar
 Teorija skupova
 https://www.researchgate.net/figure/A-Venn-diagram-of-unions-and-intersections-for-two-sets-A-and-B-and-their-complements_fig1_332453167
 
-Podskup
-A je podskup od B kad svaki element iz skupa A pripada i skupu B
-$A \subseteq B \implies (x \in A \implies x \in B)$
-
-Jednaki skupovi
-$A = B \iff (x \in A \iff x \in B)
-
-Jednaki skupovi r
-$ A \subseteq B \land B \subseteq A$
-
-A pravi podskup od B r
-$A \subseteq B \land A \ineq B$
-$A \subsetneq B$
-
-Partitivni skup skupa A r
-Skup svih podskupova skupa Akkk
-
-Univerzalni skup r
-Skup svih skupova u datom kontekstu
-$U$
-
-Presjek skupova
-$A \cap B = \{ x \in U \colon x \in A \land x \in B \}$
-image
-
-Unija skupova
-$A \cup B = \{ x \in U \colon x \in A \lor x \in B \}$
-image
-
-Razlika skupova
-$A \setminus B = \{ x \in U \colon x \in A \land x \notin B \}$
-image
-
-Simetricna razlika skupova
-$A \Delta B = (A \setminus B) \cup (B \setminus A )= \{ x \in U \colon x\}$
-
-Komplement skupa
-$A^\complement = \{x \in U \colon x \notin A\} $
-
-Relativni komplement skupa A u skupu B
-$B \setminus A$ 
-
-Presjek familije skupova $\mathcal F = \{A_i, i \in \mathcal I\}$, gdje je $\mathcal I$ neki indeksni prostor/interval
-$ \bigcap_{i \in \mathcal I} A_i = \{ x \in U \colon x \in A_j \space\forall j \in \mathcal I \space\}$
-?? Svi $A_j \in \mathcal F$ koji sadrze element $x$
-
-Unija familije skupova $\mathcal F = \{A_i, i \in \mathcal I\}$, gdje je $\mathcal I$ neki indeksni prostor/interval
-$ \bigcup_{i \in \mathcal I} A_i = \{ x \in U \colon \exists \space j \in \mathcal I \space \text{tako da } x \in A_j \}$
-?? Postoji neki skup $A_j \in \mathcal F$ koji sadrzi element $x$
-
-De Morganovi zakoni za skupove
-$A \cup B = A^\complement \cap B^\complement$
-$A \cap B = A^\complement \cup B^\complement$
-
-De Morganovi zakoni za $i$ skupova
-$(\bigcup_{i \in \mathcal I} A_i)^\complement = \bigcap_{i \in \mathcal I} A_{i}^\complement$
-$(\bigcap_{i \in \mathcal I} A_i)^\complement = \bigcup_{i \in \mathcal I} A_{i}^\complement$
-
-De Morganovi zakoni obicnim rijecima
-Komplement unije skupova je presjek komplemenata tih skupova
-Komplement presjeka skupova je unija komplemenata tih skupova
-
 De Morgan dokazi
 ## TODO
 
-Particija skupa
-$ \mathcal P \text{je particija skupa } X ako:$
-1)$\varnothing \notin \mathcal P$
-2)$\bigcup_{A \in \mathcal P}A=X$
-3)$(\forall A, B \in \mathcal P) \text{ it is the case that } A \neq B \text{ and } A \cap B = \varnothing$
-3)$(\forall A, B \in \mathcal P) (A \neq B) \text{ and } (A \cap B = \varnothing)$
-
-Karakteristicna funkcija skupa
-Za skup $A \subseteq B$
-$\chi_{\scriptsize A} \colon U \rightarrow \{ 0, 1\}$
-$\chi_{\scriptsize A}(x)=
-\begin{cases}
-1,\text{if } x \in A \\
-0,\text{if } x\notin A
-\end{cases}$
-
-Kvadrat karakteristicne funkcije skupa
-$\chi_{\scriptsize A}^2 = \chi_{\scriptsize A}$
-
-Karakteristicna funkcija presjeka
-$\chi_{\scriptsize A \cap B}= \chi_{\scriptsize A}\chi_{\scriptsize B}$
-
 Karakteristicne funkcija presjeka objasnjenje
 ## TODO
-
-Karakteristicne funkcija unije
-$\chi_{\scriptsize A \cup B}= \chi_{\scriptsize A}+\chi_{\scriptsize B}-\chi_{\scriptsize A}\chi_{\scriptsize B}$
-
-Karakteristicna funkcija razlike
-$\chi_{\scriptsize A \cup B}= \chi_{\scriptsize A}-\chi_{\scriptsize A}\chi_{\scriptsize B}$
-
-Karakteristicna funkcija simetricne razlike
-$\chi_{\scriptsize A \cup B}= \chi_{\scriptsize A}+\chi_{\scriptsize B}-2\chi_{\scriptsize A}\chi_{\scriptsize B}$
 
 Karakteristicna funkcija simetricne razlike objasnjenje
 ## TODO
