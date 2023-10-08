@@ -1,7 +1,7 @@
 # Opci smjer 2023/2024
 # Semestri
 - [I semestar](#i-semestar)
-- [III semestar](#ii-semestar)
+- [III semestar](#iii-semestar)
 
 # I semestar
 ## Predmeti
@@ -117,7 +117,7 @@ Ponovnim izlaskom na neki od ispita na Zavrsnom roku, prethodno ostvareni bodovi
 - Sve vjezbe ce biti postavljene na teams (bez rjesenja)
 ### Literatura
 
-# II semestar
+# III semestar
 
 
 - [Teorija skupova](#teorija-skupova) (4 ECTS)
