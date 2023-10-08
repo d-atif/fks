@@ -1,7 +1,7 @@
 # Opci smjer 2023/2024
 # Semestri
 - [I semestar](#i-semestar)
-- [II semestar](#ii-semestar)
+- [III semestar](#ii-semestar)
 
 # I semestar
 ## Predmeti
