@@ -53,7 +53,8 @@ Ponovnim izlaskom na neki od ispita na Zavrsnom roku, prethodno ostvareni bodovi
 ### Resursi
 - Skripta za predavanja od Dz. Gusic (rukom pisana), na teamsu
 - Dopuna skripte za predavanja o mocnosti skupa (iz M. Pepic), na teamsu
-- Skripta za vjezbe (pitati za par sedmica profesoricu Danijelu da li ce ubaciti dodatne zadatke)
+- Skripta za vjezbe Nejra Alickovic (skripta preporucena od profesora i profesorice, dostupna u kopirnici)
+- (pitati za par sedmica profesoricu Danijelu da li ce ubaciti dodatne zadatke)
 ### Literatura
 - Uvod u matematiku, Medo Pepic
 
