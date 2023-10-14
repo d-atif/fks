@@ -1,7 +1,7 @@
 # Opci smjer 2023/2024
 # Semestri
 - [I semestar](#i-semestar)
-- [II semestar](#ii-semestar)
+- [III semestar](#iii-semestar)
 
 # I semestar
 ## Predmeti
@@ -53,7 +53,8 @@ Ponovnim izlaskom na neki od ispita na Zavrsnom roku, prethodno ostvareni bodovi
 ### Resursi
 - Skripta za predavanja od Dz. Gusic (rukom pisana), na teamsu
 - Dopuna skripte za predavanja o mocnosti skupa (iz M. Pepic), na teamsu
-- Skripta za vjezbe (pitati za par sedmica profesoricu Danijelu da li ce ubaciti dodatne zadatke)
+- Skripta za vjezbe Nejra Alickovic (skripta preporucena od profesora i profesorice, dostupna u kopirnici)
+- (pitati za par sedmica profesoricu Danijelu da li ce ubaciti dodatne zadatke)
 ### Literatura
 - Uvod u matematiku, Medo Pepic
 
@@ -117,7 +118,7 @@ Ponovnim izlaskom na neki od ispita na Zavrsnom roku, prethodno ostvareni bodovi
 - Sve vjezbe ce biti postavljene na teams (bez rjesenja)
 ### Literatura
 
-# II semestar
+# III semestar
 
 
 - [Teorija skupova](#teorija-skupova) (4 ECTS)
