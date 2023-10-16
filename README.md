@@ -18,16 +18,9 @@
 | Predavanja | Dina Kamber-Hamzic | dinakamber@pmf.unsa.ba | SRI: 12:15 - 14:15<br>PET: 09:00 - 12:00 | 421
 | Vjezbe | Dina Kamber-Hamzic | dinakamber@pmf.unsa.ba | SRI: 12:15 - 14:15<br>PET: 09:00 - 12:00 | 421
 ### Ispiti
-Tri ispita tj. dvije parcijale i zavrsni ispit
-- I parcijala 30b
-- II parcijala 30b
-- Zavrsni 40b
-- Koje gradivo za koje parcijale ?
 
-Bodovi se skupljaju - nema uslova za potreban minimalan broj bodova na bilo kojem ispitu (I, II, Z).
 
-Na Zavrsnom se moze polagati jedan ili vise ispita (npr. I parcijala + Zavrsni).
-Ponovnim izlaskom na neki od ispita na Zavrsnom roku, prethodno ostvareni bodovi se ponistavaju.
+
 ### Resursi
 - Predavanja/zadaci na e-nastavi
 - Ispiti na e-nastavi i folderu "faks"
