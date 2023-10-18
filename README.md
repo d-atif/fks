@@ -16,7 +16,7 @@
 | P/V | Predavac | email | Konsultacije | Kabinet
 | ----------- | ----------- | ----------- | ----------- | ----------- |
 | Predavanja | Dina Kamber-Hamzic | dinakamber@pmf.unsa.ba | SRI: 12:15 - 14:15<br>PET: 09:00 - 12:00 | 421
-| Vjezbe | Dina Kamber-Hamzic | dinakamber@pmf.unsa.ba | SRI: 12:15 - 14:15<br>PET: 09:00 - 12:00 | 421
+| Vjezbe | Dzana Drino | dzana.drino@pmf.unsa.ba | ? | ?
 ### Ispiti
 
 
@@ -58,22 +58,13 @@
 | ----------- | ----------- | ----------- | ----------- | ----------- |
 | Predavanja | Amela Muratovic-Ribic | amela@pmf.unsa.ba | PON: 11:00 – 11:45<br>CET: 10:30 – 13:00<br>PET: 08:30 – 10:00 | 414
 | Vjezbe | Aleksandar Balašev-Samarski | aleksandar.bs@pmf.unsa.ba | PON: 09:00 – 11:00<br>UTO: 10:00 – 12:00<br>SRI: 12:00 – 13:00 | 407
+
 ### Ispiti
-- Profesorica rekla 4 kolokvija ?!! jel to znaci 4 parcijale? pitati za pojasnjenje
-- I kolokvij obuhvata gradivo iz sedmica 2.-7.
-- II kolokvij obuhvata gradivo iz sedmica 8.-15. i održati će se u terminu završnog ispita.
-- Bodovi tokom kursa:
-
-| TEST | MAKSIMALAN BROJ BODOVA | BROJ BODOVA ZA PROLAZ
-| ----------- | ----------- | ----------- |
-| I KOLOKVIJ	| 30 | 16
-| II KOLOKVIJ | 30 | 16
-| USMENI ISPIT | 40 |	20
-
-- Koje gradivo za koje parcijale (plan rada iznad validan?)
+- 4 kolokvija sa gradivom koje odgovara cetverima poglavljima iz profesoricinog udzbenika
 
 ### Resursi
 - Udzbenik profesorice dostupan na e-nastavi (zadnje poglavlje vjerovatno visak)
+
 ### Literatura
 - Gilbert Strang-Linear Algebra and Its Applications (4ed)-Brooks Cole (2005)Datoteka
 - Stephen H. Friedberg, Arnold J. Insel, Lawrence E. Spence- Linear Algebra (4th ed.))
@@ -85,10 +76,10 @@
 | P/V | Predavac | email | Konsultacije | Kabinet 
 | ----------- | ----------- | ----------- | ----------- | ----------- |
 | Predavanja | Elmedin Selmanovic | eselmanovic@pmf.unsa.ba | UTO: 09:00 - 14:00 | 438
-| Vjezbe | Sead Delalic | delalic.sead@pmf.unsa.ba  | PON: 09:00 - 15:00 | 409
+| Vjezbe | Adisa Bolic | abolic@pmf.unsa.ba | PON: 09:00 - 11:00<br>UTO: 09:00 - 12:00 | 416
+| Vjezbe | Dzana Drino | dzana.drino@pmf.unsa.ba  | ? | ?
 
 ### Ispiti
-- Koje gradivo za koje parcijale
 
 ### Resursi
 - Folder faks
@@ -107,7 +98,7 @@
 - Profesor organizuje ispit (poslati upit na mail profesora sa detaljima ispita)
 - Koje gradivo za koje parcijale
 ### Resursi
-- Teams ?
+- Materijal na teams
 - Sve vjezbe ce biti postavljene na teams (bez rjesenja)
 ### Literatura
 
