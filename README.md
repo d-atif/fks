@@ -18,7 +18,7 @@
 | Predavanja | Dina Kamber-Hamzic | dinakamber@pmf.unsa.ba | SRI: 12:15 - 14:15<br>PET: 09:00 - 12:00 | 421
 | Vjezbe | Dzana Drino | dzana.drino@pmf.unsa.ba | ? | ?
 ### Ispiti
-
+- Sve za ispite na teamsu predmeta
 
 
 ### Resursi
@@ -61,10 +61,9 @@
 
 ### Ispiti
 - 4 kolokvija sa gradivom koje odgovara cetverima poglavljima iz profesoricinog udzbenika
-
+- Teorija i zadaci zajedno - jedan ispit
 ### Resursi
 - Udzbenik profesorice dostupan na e-nastavi (zadnje poglavlje vjerovatno visak)
-
 ### Literatura
 - Gilbert Strang-Linear Algebra and Its Applications (4ed)-Brooks Cole (2005)Datoteka
 - Stephen H. Friedberg, Arnold J. Insel, Lawrence E. Spence- Linear Algebra (4th ed.))
@@ -78,7 +77,6 @@
 | Predavanja | Elmedin Selmanovic | eselmanovic@pmf.unsa.ba | UTO: 09:00 - 14:00 | 438
 | Vjezbe | Adisa Bolic | abolic@pmf.unsa.ba | PON: 09:00 - 11:00<br>UTO: 09:00 - 12:00 | 416
 | Vjezbe | Dzana Drino | dzana.drino@pmf.unsa.ba  | ? | ?
-
 ### Ispiti
 
 ### Resursi
@@ -95,8 +93,7 @@
 | Predavanja | Dzenan Gusic | dzenang@pmf.unsa.ba | PON: 08:00 – 10:00<br>PET: 08:00 – 11:00<br>(Konsultacije kad god profesor u kabinetu) | 405
 | Vjezbe | Adisa Bolic | abolic@pmf.unsa.ba | PON: 09:00 - 11:00<br>UTO: 09:00 - 12:00 | 416
 ### Ispiti
-- Profesor organizuje ispit (poslati upit na mail profesora sa detaljima ispita)
-- Koje gradivo za koje parcijale
+- Prva parcijala do funkcija, druga od funkcija
 ### Resursi
 - Materijal na teams
 - Sve vjezbe ce biti postavljene na teams (bez rjesenja)
@@ -125,7 +122,6 @@ Dvije parcijale
 - Predavanja/zadaci na e-nastavi
 - Predavanja ce biti postavljanja
 - Vjezbe nece biti postavljanje, ali ce biti postavljani zadaci za samostalni rad
-
 ### Literatura
 - Paul R. Halmos - Naive Set Theory
 - Dopuniti?
@@ -139,8 +135,8 @@ Dvije parcijale
 ### Ispiti
 
 ### Resursi
-- Vjezbe ce biti postavljene na teams
-
+- Dostupne vjezbe od prosle godine na teams (papiri i video) (iako je asistent rekao da ce mozda dodati ponesto ove god.)
+- Ima i drive sa vjezbama
 ### Literatura
 - Sheldon Ross, A First Course in Probability
 
@@ -149,8 +145,7 @@ Dvije parcijale
 | P/V | Predavac | email | Konsultacije | Kabinet
 | ----------- | ----------- | ----------- | ----------- | ----------- |
 | Predavanja | Emin Beso | eminbeso@pmf.unsa.ba | PET: 09:00 – 14:00 | 448
-| Vjezbe | Emin Beso | eminbeso@pmf.unsa.ba | PET: 09:00 – 14:00 | 448
-
+| Vjezbe | Emin Beso | eminbeso@pmf.unsa.ba | PET: 09:00 – 14:00 | 448i
 ### Ispiti
 Dvije parcijale + seminarski kad god zelimo, na bilo koju temu, koristeci Geogebra, Latex etc
 Dopuniti?
@@ -165,14 +160,11 @@ Dopuniti?
 | ----------- | ----------- | ----------- | ----------- | ----------- |
 | Predavanja | Medina Zubaca | medina.zubaca@pmf.unsa.ba | UTO: 14:15 - 15:00<br>SRI: 14:15 - 15:00<br>PET: 11:15 - 14:45 | 422
 | Vjezbe | Aleksandar Balašev-Samarski | aleksandar.bs@pmf.unsa.ba | PON: 09:00 – 11:00<br>UTO: 10:00 – 12:00<br>SRI: 12:00 – 13:00 | 407
-
 ### Ispiti
 Dopuniti sa info sa papira, napraviti tabelu itd
-
 ### Resursi
 - Predavanja/prezentacije bit ce postavljane na teams (upitna redovnost)
 - Vjezbe bit ce postavljane na teams (upitna redovnost)
-
 ### Literatura
 - E. Ward Cheney, David R. Kincaid - Numerical Mathematics and Computing
 - Richard L. Burden, J. Douglas Faires, Annette M. Burden - Numerical Analysis
