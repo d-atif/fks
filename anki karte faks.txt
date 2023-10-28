@@ -28,49 +28,17 @@ Karakteristicne funkcija presjeka objasnjenje
 Karakteristicna funkcija simetricne razlike objasnjenje
 ## TODO
 
-Binarna relacija na skupu A je [...]
-svaki podskup \rho Descartesovog produkta A \times B
 
-n-arna relacija ili relacija duzine n na skupu A je [...]
-svaki podskup \rho Descartesovog stupnja A^n
+---
 
-Domen relacije \rho \subseteq A \times B je
-skup svih a \in A takvih da (a, b) \in \rho za neko b \in B
-To jest, domen relacije \rho je skup svih prvih koordinata svih uredjenih parova u relaciji \rho
+Linearna Algebra I
 
-Kodomen ili opseg relacije \rho je
-skup svih b \in B takvih da (a, b) \in \rho za neko a \in A
-To jest, kodomen relacije \rho je skup svih drugih koordinata svih uredjenih parova u \rho
+ref za matrice:
+\begin{bmatrix} \end{bmatrix}
 
-Inverzna relacija relacije \rho
-\rho^{-1} \subseteq = \{(b, a) \colon (a,b) \in \rho \}
-Drugim rijecima (b, a) \in \rho^{-1} akko (a, b) \in \rho
+Teorem Hermiteove matrice
+Neka je A m \times n matrica ranka r. Tada r \leq m, r \leq n i primjenom konacnog broja elementarnih operacija nad redovima i kolonama, matrica A se moze transformisati u (m \times n) matricu
+D = \begin{bmatrix} I_r & O_1 \\ O_2 O_3\end{bmatrix}
+gdje je I_r jedinicna matrica, a O_1, O_2 i O_3 su nula matrice odgovarajucih dimenzija. Dakle, vrijedi D_{ii} = 1 ako je i \leq r i D_{ij} = 0 u suprotnom.
 
-Kompozicija relacija \rho i \sigma je 
-relacija \tau \subseteq A \times C definirana sa:
-\tau = \{(a, c) \colon \text{postoji element b iz skupa B takav da $(a, b) \in \rho$ i $(b, c) \in \sigma$}\}
-Taj skup se oznacava sa \tau = \sigma \circ \rho
-
-\rho-slika skupa A definira se kao
-skup 
-\rho (A) \colon = \{a_2 \in A_2 \colon (a_1, a_2) \in \rho za neki a_1 \in A\}
-Slicno se definira \rho-original \rho^{-1}(B) skupa B \subseteq A_2
-
-(\rho^{-1})^{-1} = ...
-\rho
-
-(\rho_2 \circ \rho_1)^{-1} = ...
-\rho_1^{-1} \circ \rho_2^{-1}
-
-\rho_3 \circ (\rho_2 \circ \rho_1) = 
-(\rho_3 \circ \rho_2) \circ \rho_1
-
-(\rho_2 \circ \rho_1)(A) = 
-\rho_2 (\rho_1(A))
-
-\rho(A \cup B) =
-\rho(A) \cup \rho(B)
-
-\rho(A \cap B) [...]
-\subseteq \rho(A) \cap \rho(B)
-
+Sustina dokaza Teorema Hermiteove matrice
