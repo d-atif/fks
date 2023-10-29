@@ -28,6 +28,52 @@ Karakteristicne funkcija presjeka objasnjenje
 Karakteristicna funkcija simetricne razlike objasnjenje
 ## TODO
 
+Klasa
+Za bilo koju kolekciju objekata, tj. za prozivoljnu kolekciju \{x: P(x)\} gdje je P(x) neko svojstvo, kazemo da je klasa
+Neke klase su skupovi, za one koje nisu kazemo da su prave klase
+
+ZF aksiomi su
+1. Aksiom ekstenzionalnosti
+2. Aksiom komprehenzije
+3. Aksiom para
+4. Aksiom unije
+5. Aksiom o partitivnom skupu
+6. Aksiom beskonacnosti
+7. Aksiom zamjene
+8. Aksiom regularnosti
+
+*mozda ukljucit reversed za aksiome*
+
+Aksiom ekstenzionalnosti
+Ako dva skupa imaju iste elemente, onda je A = B
+
+Aksiom komprehenzije
+Za proizvoljan skup A i proizvoljno svojstvo P(x) koje mogu imati elementi iz A, kolekcija B = \{x \in A: P(x)\} je skup
+Drugim rijecima, za svaki skup A i svaki jednomjesni predikat P(x) definiran na skupu A, postoji skup B ciji su elementi onni iz A za koje je iskaz P(x) tacan
+*verboznost ko distrakcija*
+
+Aksiom para
+Ako su A i B skupovi onda je i \{A, B\} skup.
+Drugim rijecima, ako su A i B skupovi tada postoji skup C ciji su elementi A i B
+
+Aksiom unije
+Za svaki skup je klasa elemenata svih njegovih elemenata skup
+
+Aksiom o partitivnom skupu
+Ako je A proizvoljan skup, klasa \mathcal P(A) svih podskupova skupa A je skup
+
+Aksiom beskonacnosti
+Postoji skup S za koji vrijedi sljedeci uvjet:
+\varnothing \in S \land (\forall x) x \in S \implies x \cup \{x\} \in S
+
+Aksiom zamjene
+Neka je A skup. Neka je \varphi (x, y) formula (dvomjesni predikat) koja svakom elementu x \in A pridruzuje jeddan element y \in B tako da je \varphi (x, y) tacna. Tada postoji skup B sastavljen od elemenata y za koje je \varphi (x, y) tacan iskaz za neko x \in A.
+
+Aksiom regularnosti
+Svaki neprazan skup A sadrzi element x ciji je presjek sa A prazan
+
+Sta je motivacija aksioma zamjene
+Zelja da skupovi budu zatvoreni u odnosu na slike funkcije. To znaci da ako je na skupu A definirana funkcija f takva da je za svako a \in A vrijednost f(a) skup, onda je klasa B = {f(a): a \in A} takodjer skup. Aksiom zamjene nam, pored ostaloga, to garantira.
 
 ---
 
