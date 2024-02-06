@@ -25,7 +25,7 @@
 5. zakon skraćivanja
 
 ### Posljedice $<$ poretka u $\mathbb N$
-1. $\forall n \in \mathbb N \neg (n<n)$
+1. $\forall n \in \mathbb N \neg $
 2. $m<n \veebar n<m \space \space \forall m, n \in \mathbb N$, $m \neq n$ -->
 3. $m<n \land n<p \implies m<p$
 4. $(\mathbb N, <>)$ je strogo linearno uređen skup
