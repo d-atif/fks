@@ -25,10 +25,10 @@
 5. zakon skraćivanja
 
 ### Posljedice $<$ poretka u $\mathbb N$
-1. $\forall n \in \mathbb N \space \space \neg (n < n)$
-2. $(\forall m, n \in \mathbb N$, $m \neq n) \space \space m < n \veebar n < m$
+1. $(\forall n \in \mathbb N) \; \neg (n < n)$
+2. $(\forall m, n \in \mathbb N$, $m \neq n) \; m < n \veebar n < m$
 3. $m < n \land n < p \implies m < p$
 4. $(\mathbb N,  <)$ je strogo linearno uređen skup
-5. $(\forall p \in \mathbb N) \space \space m < n \implies m \cdot p  <  n \cdot p$
+5. $(\forall p \in \mathbb N) \; m < n \implies m \cdot p  <  n \cdot p$
 6. $m < n \land m' < n' \implies m+m' < n+n'$
 7. $\mathbb N$ ima najmanji element
