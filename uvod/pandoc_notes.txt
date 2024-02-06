@@ -1,0 +1,4 @@
+pandoc prirodni_brojevi.md -o prirodni_brojevi.pdf --variable fontsize=12pt --variable geometry:margin=1in
+pandoc cijeli_brojevi.md -o cijeli_brojevi.pdf --variable fontsize=12pt --variable geometry:margin=1in
+pandoc racionalni_brojevi.md -o racionalni_brojevi.pdf --variable fontsize=12pt --variable geometry:margin=1in
+pandoc algebarske_strukture.md -o algebarske_strukture.pdf --variable fontsize=12pt --variable geometry:margin=1in

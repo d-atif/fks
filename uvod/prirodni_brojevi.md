@@ -1,4 +1,4 @@
-## Prirodni brojevi
+## Skup $\mathbb N$
 
 - Peanovi aksiomi
 - Lema: nijedan prirodan broj nije jednak svom sljedbeniku
