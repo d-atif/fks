@@ -15,6 +15,7 @@
 - Multiplikativna struktura
 - Tijelo
 - Tvrdnja: tijelo nema netrivijalnih djeljitelja nule
+- Potpuno polje
   
 ### Homorfizmi
 - Homomorfizam

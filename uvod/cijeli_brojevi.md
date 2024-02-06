@@ -6,10 +6,11 @@
 - Sabiranje u $\mathbb Z$
 - Množenje u $\mathbb Z$
 - Tvrdnja o korektnosti definicija sabiranja i množenja u $\mathbb Z$
-- Teorem o strukturi  $(\mathbb Z, +, \cdot)$
+- Teorem o strukturi $(\mathbb Z, +, \cdot)$
 -  $(\mathbb Z, +, \cdot)$ je područje cjelosti
 -  Neutralni i inverzni elementi prstena  $(\mathbb Z, +, \cdot)$
 -  Oduzimanje u $\mathbb Z$
 -  Zakon trihotomije u $\mathbb Z$
 -  Relacija $<$ u $\mathbb Z$
 -  Zadatak o ulaganju skupa $\mathbb N$ u $\mathbb Z$
+- $(\mathbb Q, +, \cdot, <)$ nije potpuno polje
