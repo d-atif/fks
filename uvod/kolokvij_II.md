@@ -26,7 +26,7 @@
 
 ### Posljedice $<$ poretka u $\mathbb N$
 <!-- 1. $\forall n \in \mathbb N \not (n<n)$ -->
-2. $m<n \wedge n<m \space \space \forall m, n \in \mathbb N$, $m \neq n$
+2. $m<n \veebar n<m \space \space \forall m, n \in \mathbb N$, $m \neq n$
 <!-- 3. $m<n \land n<p \implies m<p$
 4. $(\mathbb N, <>)$ je strogo linearno uređen skup
 5. $m<n \implies m \cdot p < n \cdot p \space \space \forall p \in \mathbb N$
